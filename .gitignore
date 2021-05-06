@@ -1,3 +1,5 @@
 trash
 weights
 .ipynb_checkpoints
+*.png
+*.csv
